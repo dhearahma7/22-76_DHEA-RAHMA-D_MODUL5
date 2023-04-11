@@ -1,0 +1,66 @@
+.style-logo{
+    position: absolute;
+    align-items: center;
+    width: 30px;
+    height: 70px;
+    left: 25px;
+    font-style: normal;
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+}
+
+.warna{
+    background-color: rgb(221, 221, 221);
+}
+
+.user{
+    position: absolute;
+    align-items: center;
+    height: 40px;
+    color: white;
+    left: 150px;
+}
+
+.navbar{
+    color: white;
+}
+
+.bg{
+    background-color: rgb(23, 115, 177);
+}
+
+.judul{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(95, 95, 95);
+}
+
+.text3{
+    font-size: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:justify;
+}
+
+.huruf{
+    text-align: justify;
+}
+
+.offcanvas-body button{
+    position: absolute;
+    bottom: 15px;
+    width: 90%;
+    right: 50px;
+    font-weight: bold;
+    left: 25px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    background-color: rgb(224, 79, 79);
+ 
+}
+
+.style-home{
+    font-weight: bold;
+}
